@@ -32,7 +32,7 @@
               "growl_type": "info",
               "name": "DoIt",
               "send_growl": true,
-              "growl_message": "You inserted a STUFF! (Dreamtsoft)",
+              "growl_message": "You inserted a STUFF! (Master Blaster)",
               "obj_name": "DoIt",
               "obj_type": "send_notification"
             },
