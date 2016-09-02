@@ -1,0 +1,14 @@
+{
+   "bundle_name": "hellodreamtsoft",
+   "dependencies": [ ],
+   "icon": "",
+   "icon_color": "#999999",
+   "id": "ds.hellodreamtsoft",
+   "page_banner": "",
+   "platform_version": "",
+   "schema_version": "0",
+   "theme": "",
+   "title": "HelloDreamtsoft",
+   "vendor": "ds",
+   "version": "0.1.0"
+}
