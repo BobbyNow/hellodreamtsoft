@@ -32,7 +32,7 @@
               "growl_type": "info",
               "name": "DoIt",
               "send_growl": true,
-              "growl_message": "You inserted a STUFF!",
+              "growl_message": "You inserted a STUFF! (Change made in brackets)",
               "obj_name": "DoIt",
               "obj_type": "send_notification"
             },
