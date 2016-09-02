@@ -1,0 +1,24 @@
+{
+  "bucket_data": {
+    "slots": {
+      "stuff.short_description": {
+        "attributes": {
+          "maxlength": 100
+        },
+        "bucket": "stuff",
+        "created": "1472783440462",
+        "labels": {
+          "en": {
+            "label": "Short description",
+            "labelp": "Short descriptions"
+          }
+        },
+        "name": "short_description",
+        "owner": "76389b819eaf4d46b3bedc82280fba33",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "string"
+      }
+    }
+  }
+}

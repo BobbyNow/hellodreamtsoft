@@ -1,0 +1,22 @@
+{
+  "bucket_data": {
+    "slots": {
+      "stuff.description": {
+        "attributes": { },
+        "bucket": "stuff",
+        "created": "1472783420963",
+        "labels": {
+          "en": {
+            "label": "Description",
+            "labelp": "Descriptions"
+          }
+        },
+        "name": "description",
+        "owner": "76389b819eaf4d46b3bedc82280fba33",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "text_editor"
+      }
+    }
+  }
+}

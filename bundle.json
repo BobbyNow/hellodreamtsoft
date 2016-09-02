@@ -1,8 +1,8 @@
 {
    "bundle_name": "hellodreamtsoft",
    "dependencies": [ ],
-   "icon": "",
-   "icon_color": "#999999",
+   "icon": "bomb",
+   "icon_color": "#aee",
    "id": "ds.hellodreamtsoft",
    "page_banner": "",
    "platform_version": "",

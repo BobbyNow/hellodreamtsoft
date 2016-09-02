@@ -1,0 +1,23 @@
+{
+  "bucket_data": {
+    "buckets": {
+      "stuff": {
+        "attributes": {
+          "display": "Name"
+        },
+        "created": "1472783368321",
+        "id": "stuff",
+        "labels": {
+          "en": {
+            "label": "Stuff",
+            "labelp": "Stuffs"
+          }
+        },
+        "owner": "76389b819eaf4d46b3bedc82280fba33",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "records"
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "bucket_data": {
+    "action_trigger": {
+      "7e83beb478c349fbb713562d41f283ce": {
+        "active": "1",
+        "bucket": "stuff",
+        "condition": "[]",
+        "created": "1472783571425",
+        "description": "",
+        "flow": [
+          {
+            "data": { },
+            "output": { },
+            "type": "box",
+            "id": "start",
+            "text": "Start",
+            "left": 36,
+            "top": -1,
+            "width": 100,
+            "height": 40,
+            "stuck": true,
+            "routes": [
+              {
+                "text": "Always",
+                "order": 0,
+                "to": "c5966e917a15448858098b364dfe3937"
+              }
+            ]
+          },
+          {
+            "data": {
+              "growl_type": "info",
+              "name": "DoIt",
+              "send_growl": true,
+              "growl_message": "You inserted some STUFF!",
+              "obj_name": "DoIt",
+              "obj_type": "send_notification"
+            },
+            "output": { },
+            "name": "send_notification",
+            "value": "send_notification",
+            "label": "Notification",
+            "type": "send_notification",
+            "text": "DoIt",
+            "left": 203,
+            "top": 0,
+            "id": "c5966e917a15448858098b364dfe3937",
+            "width": 100,
+            "height": 40,
+            "routes": [
+              {
+                "text": "Always",
+                "condition": "success:eq:1:true",
+                "order": 0,
+                "type": "ok"
+              }
+            ]
+          }
+        ],
+        "id": "7e83beb478c349fbb713562d41f283ce",
+        "name": "Stuff rule",
+        "on": "insert",
+        "order": "0",
+        "owner": "76389b819eaf4d46b3bedc82280fba33",
+        "schema_version": "0",
+        "system_updated": "0",
+        "when": "before"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "bucket_data": {
+    "slots": {
+      "stuff.name": {
+        "attributes": {
+          "maxlength": 40
+        },
+        "bucket": "stuff",
+        "created": "1472783392480",
+        "labels": {
+          "en": {
+            "label": "Name",
+            "labelp": "Names"
+          }
+        },
+        "name": "name",
+        "owner": "76389b819eaf4d46b3bedc82280fba33",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "string"
+      }
+    }
+  }
+}

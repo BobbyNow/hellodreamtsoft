@@ -1,0 +1,57 @@
+{
+  "bucket_data": {
+    "pages": {
+      "47fe795131a94d85b2ad3874621712cd": {
+        "created": "1472783918715",
+        "id": "47fe795131a94d85b2ad3874621712cd",
+        "layout": {
+          "component_18588919d75eb4b9f963eb86b88e66f8": {
+            "type": "component",
+            "component": "navigator",
+            "id": "component_18588919d75eb4b9f963eb86b88e66f8",
+            "name": "component_18588919d75eb4b9f963eb86b88e66f8",
+            "needs_subpage_target": true,
+            "attributes": {
+              "component": "navigator",
+              "_style": "",
+              "type": "menu",
+              "name": "MyStuff",
+              "navigator": "33c0745b1dac43afbe65e76081dc52b8"
+            },
+            "h": "100%",
+            "w": "20%"
+          },
+          "__start__": {
+            "type": "container",
+            "w": "100%",
+            "h": "100%",
+            "contains": [
+              "component_18588919d75eb4b9f963eb86b88e66f8",
+              "component_7d07885df25f5f7dfa0d4602f09c5b02"
+            ]
+          },
+          "component_7d07885df25f5f7dfa0d4602f09c5b02": {
+            "type": "component",
+            "component": "static_html",
+            "id": "component_7d07885df25f5f7dfa0d4602f09c5b02",
+            "name": "component_7d07885df25f5f7dfa0d4602f09c5b02",
+            "needs_subpage_target": false,
+            "attributes": {
+              "component": "static_html",
+              "_style": "",
+              "html": "<html>\n\n</html>"
+            },
+            "w": "80%",
+            "h": "100%"
+          }
+        },
+        "name": "home",
+        "owner": "76389b819eaf4d46b3bedc82280fba33",
+        "public": "0",
+        "schema_version": "0",
+        "system_updated": "0",
+        "template": ""
+      }
+    }
+  }
+}
